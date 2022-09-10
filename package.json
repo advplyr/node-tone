@@ -1,11 +1,16 @@
 {
   "name": "node-tone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node wrapper for tone",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/advplyr/node-tone.git"
+  },
+  "homepage": "https://github.com/advplyr/node-tone",
   "author": "advplyr",
   "license": "ISC"
 }

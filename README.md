@@ -4,6 +4,12 @@ Node wrapper for [tone](https://github.com/sandreas/tone)
 
 **Requires tone binary to be installed**
 
+## Installation
+
+```bash
+npm install node-tone
+```
+
 ## Usage
 
 ```javascript
